@@ -16,7 +16,6 @@ Fichiers :
 Objectif : apprendre à détecter et corriger des erreurs de typage via les fonctions `CAST()` et `SAFE_CAST()`.
 
 Fichiers :
-- `2-data_types_raw.sql` : inspection du fichier mal typé
 - `2-data_types_cleaning.sql` : corrections appliquées sur les colonnes
 - `2-circle_stock_raw.xlsx` : dataset
 
