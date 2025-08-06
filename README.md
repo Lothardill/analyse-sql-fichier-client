@@ -3,8 +3,6 @@ Introduction au SQL – Transformations de données
 Ce dépôt regroupe plusieurs exercices réalisés dans le cadre d’une montée en compétence en SQL.  
 Chaque partie correspond à une compétence ou une notion particulière, et contient les fichiers SQL et jeux de données associés.
 
----
-
 ## Partie 1 – Requêtes SQL de base
 
 Objectif : découvrir les bases du langage SQL (SELECT, WHERE, conditions, opérateurs logiques, CASE, IF, etc.).
