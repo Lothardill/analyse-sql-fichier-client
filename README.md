@@ -1,4 +1,4 @@
-Introduction au SQL – Transformations de données
+# Introduction au SQL – Transformations de données
 
 Ce dépôt regroupe plusieurs exercices réalisés dans le cadre d’une montée en compétence en SQL.  
 Chaque partie correspond à une compétence ou une notion particulière, et contient les fichiers SQL et jeux de données associés.
