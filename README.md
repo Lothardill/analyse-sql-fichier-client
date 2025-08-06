@@ -1,6 +1,4 @@
-Analyse SQL d’un fichier client :
-Ce projet est un exercice personnel pour pratiquer le SQL sur un jeu de données simulé représentant une base de clients.  
-L'objectif est de manipuler des requêtes de base dans BigQuery.
+Ce projet est un exercice personnel pour pratiquer le SQL sur un jeu de données simulé représentant une base de clients.  L'objectif est de manipuler des requêtes de base dans BigQuery.
 
 Colonnes présentes dans la table :
 - id
