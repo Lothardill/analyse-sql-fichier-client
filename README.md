@@ -9,7 +9,7 @@ Objectif : découvrir les bases du langage SQL (SELECT, WHERE, conditions, opér
 
 Fichiers :
 - `1-basic_queries.sql` : requêtes sur les clients (sélection, filtres, création de colonnes, panier moyen)
-- `1-customers_dataset.xlsx` : jeu de données utilisé
+- `1-customers_dataset.xlsx` : dataset
 
 ## Partie 2 – Typage des données et corrections
 
@@ -18,7 +18,7 @@ Objectif : apprendre à détecter et corriger des erreurs de typage via les fonc
 Fichiers :
 - `2-data_types_raw.sql` : inspection du fichier mal typé
 - `2-data_types_cleaning.sql` : corrections appliquées sur les colonnes
-- `2-circle_stock_raw.xlsx`, `2-circle_stock_change.xlsx` :  : datasets
+- `2-circle_stock_raw.xlsx` : dataset
 
 
 ## Partie 3 – Analyse de campagnes CRM
