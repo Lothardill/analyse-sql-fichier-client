@@ -13,7 +13,7 @@ Fichiers :
 - `1-basic_queries.sql` : requêtes sur les clients (sélection, filtres, création de colonnes, panier moyen)
 - `1-customers_dataset.xlsx` : jeu de données utilisé
 
-Partie 2 – Typage des données et corrections
+## Partie 2 – Typage des données et corrections
 
 Objectif : apprendre à détecter et corriger des erreurs de typage via les fonctions `CAST()` et `SAFE_CAST()`.
 
@@ -32,7 +32,7 @@ Fichiers :
 - `3-crm_mail_analysis.sql` : exploration, filtres, KPIs
 - `3-mail_campaigns.xlsx` : jeu de données
 
-Partie 4 – Analyse de satisfaction client (NPS)
+## Partie 4 – Analyse de satisfaction client (NPS)
 
 Objectif : enrichir et nettoyer des données de feedback client, créer un score NPS, analyser son évolution par période ou transporteur.
 
