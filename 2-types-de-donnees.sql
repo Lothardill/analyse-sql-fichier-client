@@ -20,7 +20,7 @@ FROM stock_analysis.circle_stock_raw;
 -- 6. Retentative sur table corrigée (validated_circle_stock)
 -- Le format a été nettoyé manuellement
 SELECT CAST(date_creation AS DATE) AS date_creation
-FROM stock_analysiscircle_stock_validated;
+FROM stock_analysis.circle_stock_validated;
 
 -- 7. Conversion de stock_days en FLOAT64
 SELECT CAST(stock_days AS FLOAT64) AS stock_days
@@ -47,4 +47,5 @@ SELECT
   CAST(stock_days AS FLOAT64) AS stock_days
 
 FROM stock_analysis.circle_stock_validated;
+
 
