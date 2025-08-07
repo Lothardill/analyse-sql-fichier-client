@@ -9,7 +9,7 @@ Objectif : découvrir les bases du langage SQL (SELECT, WHERE, conditions, opér
 
 Fichiers :
 - `1-basic_queries.sql` : requêtes sur les clients (sélection, filtres, création de colonnes, panier moyen)
-- `1-customers_dataset.xlsx` : dataset
+- `1-customers_dataset.csv` : dataset
 
 ## Partie 2 – Typage des données et corrections
 
@@ -17,7 +17,7 @@ Objectif : apprendre à détecter et corriger des erreurs de typage via les fonc
 
 Fichiers :
 - `2-data_types_cleaning.sql` : corrections appliquées sur les colonnes
-- `2-circle_stock_raw.xlsx`, `2-circle_stock_validated.xlsx` : datasets
+- `2-circle_stock_raw.csv`, `2-circle_stock_validated.csv` : datasets
 
 
 ## Partie 3 – Analyse de campagnes CRM
@@ -26,7 +26,7 @@ Objectif : manipuler des données marketing, calculer des indicateurs comme taux
 
 Fichiers :
 - `3-crm_mail_analysis.sql` : exploration, filtres, KPIs
-- `3-mail_campaigns.xlsx` : jeu de données
+- `3-mail_campaigns.csv` : jeu de données
 
 ## Partie 4 – Analyse de satisfaction client (NPS)
 
@@ -36,7 +36,7 @@ Fichiers :
 - `4-nps_cleaning.sql` : nettoyage et dédoublonnage
 - `4-nps_calculation.sql` : création du score NPS
 - `4-nps_analysis.sql` : exploration des variations du score
-- `4- nps_data_raw.xlsx`, `4-nps_data_deduplicated.xlsx`, `4-nps_data_enriched.xlsx` : datasets
+- `4- nps_data_raw.csv`, `4-nps_data_deduplicated.csv`, `4-nps_data_enriched.csv` : datasets
 
 Technologies utilisées
 
