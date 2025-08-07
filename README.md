@@ -17,7 +17,7 @@ Objectif : apprendre à détecter et corriger des erreurs de typage via les fonc
 
 Fichiers :
 - `2-data_types_cleaning.sql` : corrections appliquées sur les colonnes
-- `2-circle_stock_raw.xlsx` : dataset
+- `2-circle_stock_raw.xlsx`, `2-circle_stock_validated.xlsx` : datasets
 
 
 ## Partie 3 – Analyse de campagnes CRM
