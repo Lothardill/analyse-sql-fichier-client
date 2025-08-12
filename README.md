@@ -30,13 +30,12 @@ Fichiers :
 
 ## Partie 4 – Analyse de satisfaction client (NPS)
 
-Objectif : enrichir et nettoyer des données de feedback client, créer un score NPS, analyser son évolution par période ou transporteur.
+Objectif : nettoyer et enrichir un jeu de données de feedback client, créer un score NPS, analyser son évolution par période ou par transporteur.
 
 Fichiers :
-- `4-nps_cleaning.sql` : nettoyage et dédoublonnage
-- `4-nps_calculation.sql` : création du score NPS
-- `4-nps_analysis.sql` : exploration des variations du score
-- `4- nps_data_raw.csv`, `4-nps_data_deduplicated.csv`, `4-nps_data_enriched.csv` : datasets
+- `4-nps_analysis.sql` : nettoyage, création du score NPS et analyses
+- `4-nps_data_raw.csv` : jeu de données
+
 
 Technologies utilisées
 
